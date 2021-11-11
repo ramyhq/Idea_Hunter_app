@@ -1,16 +1,15 @@
 # idea_hunter
 
-A new Flutter application.
+Every time I got a great idea for an app, video, or any creative idea ... it ends that I forget it.
+so I created this app to help me and content creators to save the great idea as voice, it's looks like you hunt your ideas,
+and put them in place categorized so you can get them later.
 
-## Getting Started
+I hope all YouTubers and content creatures use this app.
+for any questions or if you need me for work you can contact me:
 
-This project is a starting point for a Flutter application.
+🔎 I’m looking for a good chance to work with mobile development team.
+	•	📫 e-mail : ramy.dmk@gmail.com
+	•	📞 mob : +201093301578
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
