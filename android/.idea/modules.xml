@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/android.iml" filepath="$PROJECT_DIR$/.idea/modules/android.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/android.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/android.app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-647393480/android.audioplayers.iml" filepath="$PROJECT_DIR$/.idea/modules/-647393480/android.audioplayers.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-1599167421/android.firebase_core.iml" filepath="$PROJECT_DIR$/.idea/modules/-1599167421/android.firebase_core.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/1922508623/android.firebase_crashlytics.iml" filepath="$PROJECT_DIR$/.idea/modules/1922508623/android.firebase_crashlytics.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-1749896945/android.flutter_audio_recorder2.iml" filepath="$PROJECT_DIR$/.idea/modules/-1749896945/android.flutter_audio_recorder2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/1402981980/android.google_mobile_ads.iml" filepath="$PROJECT_DIR$/.idea/modules/1402981980/android.google_mobile_ads.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-552258505/android.path_provider.iml" filepath="$PROJECT_DIR$/.idea/modules/-552258505/android.path_provider.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/1742515026/android.permission_handler.iml" filepath="$PROJECT_DIR$/.idea/modules/1742515026/android.permission_handler.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-1100816570/android.sqflite.iml" filepath="$PROJECT_DIR$/.idea/modules/-1100816570/android.sqflite.iml" />
+    </modules>
+  </component>
+</project>

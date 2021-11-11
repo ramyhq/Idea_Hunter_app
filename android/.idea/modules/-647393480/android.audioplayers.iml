@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module external.linked.project.id=":audioplayers" external.linked.project.path="$USER_HOME$/Developer/flutter/.pub-cache/hosted/pub.dartlang.org/audioplayers-0.19.1/android" external.root.project.path="$MODULE_DIR$/../../.." external.system.id="GRADLE" external.system.module.group="xyz.luan.audioplayers" external.system.module.version="1.0-SNAPSHOT" type="JAVA_MODULE" version="4">
+  <component name="FacetManager">
+    <facet type="android-gradle" name="Android-Gradle">
+      <configuration>
+        <option name="GRADLE_PROJECT_PATH" value=":audioplayers" />
+        <option name="LAST_SUCCESSFUL_SYNC_AGP_VERSION" value="4.1.0" />
+        <option name="LAST_KNOWN_AGP_VERSION" value="4.1.0" />
+      </configuration>
+    </facet>
+    <facet type="android" name="Android">
+      <configuration>
+        <option name="SELECTED_BUILD_VARIANT" value="debug" />
+        <option name="ASSEMBLE_TASK_NAME" value="assembleDebug" />
+        <option name="COMPILE_JAVA_TASK_NAME" value="compileDebugSources" />
+        <afterSyncTasks>
+          <task>generateDebugSources</task>
+        </afterSyncTasks>
+        <option name="ALLOW_USER_CONFIGURATION" value="false" />
+        <option name="MANIFEST_FILE_RELATIVE_PATH" value="/src/main/AndroidManifest.xml" />
+        <option name="RES_FOLDER_RELATIVE_PATH" value="/src/main/res" />
+        <option name="RES_FOLDERS_RELATIVE_PATH" value="file://$USER_HOME$/Developer/flutter/.pub-cache/hosted/pub.dartlang.org/audioplayers-0.19.1/android/src/main/res;file://$USER_HOME$/Developer/flutter/.pub-cache/hosted/pub.dartlang.org/audioplayers-0.19.1/android/src/debug/res;file://$MODULE_DIR$/../../../../build/audioplayers/generated/res/rs/debug;file://$MODULE_DIR$/../../../../build/audioplayers/generated/res/resValues/debug" />
+        <option name="TEST_RES_FOLDERS_RELATIVE_PATH" value="file://$USER_HOME$/Developer/flutter/.pub-cache/hosted/pub.dartlang.org/audioplayers-0.19.1/android/src/androidTest/res;file://$USER_HOME$/Developer/flutter/.pub-cache/hosted/pub.dartlang.org/audioplayers-0.19.1/android/src/androidTestDebug/res;file://$MODULE_DIR$/../../../../build/audioplayers/generated/res/rs/androidTest/debug;file://$MODULE_DIR$/../../../../build/audioplayers/generated/res/resValues/androidTest/debug" />
+        <option name="ASSETS_FOLDER_RELATIVE_PATH" value="/src/main/assets" />
+        <option name="PROJECT_TYPE" value="1" />
+      </configuration>
+    </facet>
+    <facet type="kotlin-language" name="Kotlin">
+      <configuration version="3" platform="JVM 1.6" allPlatforms="JVM [1.6]" useProjectSettings="false">
+        <compilerSettings>
+          <option name="additionalArguments" value="-Xallow-no-source-files" />
+        </compilerSettings>
+        <compilerArguments>
+          <option name="destination" value="$MODULE_DIR$/../../../../build/audioplayers/tmp/kotlin-classes/debug" />
+          <option name="classpath" value="$USER_HOME$/Developer/gradle/wrapper/caches/transforms-2/files-2.1/6556c96f597115804a5ea73d1a431e36/jetified-flutter_embedding_debug-1.0.0-31792e034099503ad220e36627a64b93d8a01fd2.jar:/Users/ramyhq-pc1/Developer/gradle/wrapper/caches/modules-2/files-2.1/androidx.lifecycle/lifecycle-common-java8/2.2.0/cd3478503da69b1a7e0319bd2d1389943db9b364/lifecycle-common-java8-2.2.0.jar:/Users/ramyhq-pc1/Developer/gradle/wrapper/caches/transforms-2/files-2.1/61699b0f081e597ab43d282ba0331258/jetified-core-ktx-1.6.0-api.jar:/Users/ramyhq-pc1/Developer/gradle/wrapper/caches/transforms-2/files-2.1/c6d4a95400f45330a4c57e6dd964edfe/fragment-1.1.0-api.jar:/Users/ramyhq-pc1/Developer/gradle/wrapper/caches/transforms-2/files-2.1/568926a27abbe235e1f0ab2873ed7039/viewpager-1.0.0-api.jar:/Users/ramyhq-pc1/Developer/gradle/wrapper/caches/transforms-2/files-2.1/da876ee79dcfd17c421766b33268dbc7/loader-1.0.0-api.jar:/Users/ramyhq-pc1/Developer/gradle/wrapper/caches/transforms-2/files-2.1/d48d4d5afac152378ea4e3d2718e456b/jetified-activity-1.0.0-api.jar:/Users/ramyhq-pc1/Developer/gradle/wrapper/caches/transforms-2/files-2.1/8d6014e7f231571c150b09ebcf64c974/customview-1.0.0-api.jar:/Users/ramyhq-pc1/Developer/gradle/wrapper/caches/transforms-2/files-2.1/25f5a9fd0cab9845767600b880956292/core-1.6.0-api.jar:/Users/ramyhq-pc1/Developer/gradle/wrapper/caches/transforms-2/files-2.1/75a1fd486f2bed38ea782a4093337828/lifecycle-runtime-2.2.0-api.jar:/Users/ramyhq-pc1/Developer/gradle/wrapper/caches/transforms-2/files-2.1/285824421c929a4b145a190a47d23a42/jetified-savedstate-1.0.0-api.jar:/Users/ramyhq-pc1/Developer/gradle/wrapper/caches/transforms-2/files-2.1/541f3d793c9c40ac6c84b875f5d27bc5/lifecycle-livedata-2.0.0-api.jar:/Users/ramyhq-pc1/Developer/gradle/wrapper/caches/transforms-2/files-2.1/4727dabea15b4294c53e9ca7a7798eaa/lifecycle-livedata-core-2.0.0-api.jar:/Users/ramyhq-pc1/Developer/gradle/wrapper/caches/modules-2/files-2.1/androidx.lifecycle/lifecycle-common/2.2.0/4ef09a745007778eef83b92f8f23987a8ea59496/lifecycle-common-2.2.0.jar:/Users/ramyhq-pc1/Developer/gradle/wrapper/caches/transforms-2/files-2.1/0c8384b9bb71eb4c97ccb11bbf09d208/core-runtime-2.0.0-api.jar:/Users/ramyhq-pc1/Developer/gradle/wrapper/caches/modules-2/files-2.1/androidx.arch.core/core-common/2.1.0/b3152fc64428c9354344bd89848ecddc09b6f07e/core-common-2.1.0.jar:/Users/ramyhq-pc1/Developer/gradle/wrapper/caches/transforms-2/files-2.1/df3957e9e9f9a7369275a95ef74e5028/versionedparcelable-1.1.1-api.jar:/Users/ramyhq-pc1/Developer/gradle/wrapper/caches/modules-2/files-2.1/androidx.collection/collection/1.1.0/1f27220b47669781457de0d600849a5de0e89909/collection-1.1.0.jar:/Users/ramyhq-pc1/Developer/gradle/wrapper/caches/transforms-2/files-2.1/59196b02f1a96685507352d81315ba09/lifecycle-viewmodel-2.1.0-api.jar:/Users/ramyhq-pc1/Developer/gradle/wrapper/caches/modules-2/files-2.1/androidx.annotation/annotation/1.2.0/57136ff68ee784c6e19db34ed4a175338fadfde1/annotation-1.2.0.jar:/Users/ramyhq-pc1/Developer/gradle/wrapper/caches/transforms-2/files-2.1/b3ee2b5e12a263f2d93d9060a5dceb2e/jetified-annotation-experimental-1.1.0-api.jar:/Users/ramyhq-pc1/Developer/gradle/wrapper/caches/transforms-2/files-2.1/bd23ce929910aa264edc6f2b2e9dda26/jetified-kotlin-stdlib-jdk7-1.4.21.jar:/Users/ramyhq-pc1/Developer/gradle/wrapper/caches/transforms-2/files-2.1/85459b8b958d13458050b21810a5bdca/jetified-kotlin-stdlib-1.5.10.jar:/Users/ramyhq-pc1/Developer/gradle/wrapper/caches/transforms-2/files-2.1/5ccaef5f828a994da954a4791b9b50ea/jetified-annotations-13.0.jar:/Users/ramyhq-pc1/Developer/gradle/wrapper/caches/transforms-2/files-2.1/f2af4a8067369f99fc1732ffc2497a13/jetified-kotlin-stdlib-common-1.5.10.jar:/Users/ramyhq-pc1/Library/Android/sdk/platforms/android-30/android.jar" />
+          <option name="noStdlib" value="true" />
+          <option name="noReflect" value="true" />
+          <option name="moduleName" value="audioplayers_debug" />
+          <option name="languageVersion" value="1.4" />
+          <option name="apiVersion" value="1.3" />
+          <option name="pluginOptions">
+            <array />
+          </option>
+          <option name="pluginClasspaths">
+            <array />
+          </option>
+          <option name="errors">
+            <ArgumentParseErrors />
+          </option>
+        </compilerArguments>
+      </configuration>
+    </facet>
+  </component>
+  <component name="NewModuleRootManager" LANGUAGE_LEVEL="JDK_1_7">
+    <output url="file://$MODULE_DIR$/../../../../build/audioplayers/intermediates/javac/debug/classes" />
+    <output-test url="file://$MODULE_DIR$/../../../../build/audioplayers/intermediates/javac/debugUnitTest/classes" />
+    <exclude-output />
+    <content url="file://$MODULE_DIR$/../../../../build/audioplayers/generated/aidl_source_output_dir/debug/out" />
+    <content url="file://$MODULE_DIR$/../../../../build/audioplayers/generated/aidl_source_output_dir/debugAndroidTest/out" />
+    <content url="file://$MODULE_DIR$/../../../../build/audioplayers/generated/ap_generated_sources/debug/out">
+      <sourceFolder url="file://$MODULE_DIR$/../../../../build/audioplayers/generated/ap_generated_sources/debug/out" isTestSource="false" generated="true" />
+    </content>
+    <content url="file://$MODULE_DIR$/../../../../build/audioplayers/generated/ap_generated_sources/debugAndroidTest/out" />
+    <content url="file://$MODULE_DIR$/../../../../build/audioplayers/generated/ap_generated_sources/debugUnitTest/out" />
+    <content url="file://$MODULE_DIR$/../../../../build/audioplayers/generated/renderscript_source_output_dir/debug/out" />
+    <content url="file://$MODULE_DIR$/../../../../build/audioplayers/generated/renderscript_source_output_dir/debugAndroidTest/out" />
+    <content url="file://$MODULE_DIR$/../../../../build/audioplayers/generated/res/resValues/androidTest/debug" />
+    <content url="file://$MODULE_DIR$/../../../../build/audioplayers/generated/res/resValues/debug">
+      <sourceFolder url="file://$MODULE_DIR$/../../../../build/audioplayers/generated/res/resValues/debug" type="java-resource" />
+    </content>
+    <content url="file://$MODULE_DIR$/../../../../build/audioplayers/generated/res/rs/androidTest/debug" />
+    <content url="file://$MODULE_DIR$/../../../../build/audioplayers/generated/res/rs/debug" />
+    <content url="file://$MODULE_DIR$/../../../../build/audioplayers/generated/source/buildConfig/androidTest/debug" />
+    <content url="file://$MODULE_DIR$/../../../../build/audioplayers/generated/source/buildConfig/debug">
+      <sourceFolder url="file://$MODULE_DIR$/../../../../build/audioplayers/generated/source/buildConfig/debug" isTestSource="false" generated="true" />
+    </content>
+    <content url="file://$USER_HOME$/Developer/flutter/.pub-cache/hosted/pub.dartlang.org/audioplayers-0.19.1">
+      <sourceFolder url="file://$USER_HOME$/Developer/flutter/.pub-cache/hosted/pub.dartlang.org/audioplayers-0.19.1/android/src/main/kotlin" isTestSource="false" />
+      <excludeFolder url="file://$USER_HOME$/Developer/flutter/.pub-cache/hosted/pub.dartlang.org/audioplayers-0.19.1/.dart_tool" />
+      <excludeFolder url="file://$USER_HOME$/Developer/flutter/.pub-cache/hosted/pub.dartlang.org/audioplayers-0.19.1/.pub" />
+      <excludeFolder url="file://$USER_HOME$/Developer/flutter/.pub-cache/hosted/pub.dartlang.org/audioplayers-0.19.1/android/.gradle" />
+      <excludeFolder url="file://$USER_HOME$/Developer/flutter/.pub-cache/hosted/pub.dartlang.org/audioplayers-0.19.1/build" />
+      <excludeFolder url="file://$USER_HOME$/Developer/flutter/.pub-cache/hosted/pub.dartlang.org/audioplayers-0.19.1/example/.dart_tool" />
+      <excludeFolder url="file://$USER_HOME$/Developer/flutter/.pub-cache/hosted/pub.dartlang.org/audioplayers-0.19.1/example/.pub" />
+      <excludeFolder url="file://$USER_HOME$/Developer/flutter/.pub-cache/hosted/pub.dartlang.org/audioplayers-0.19.1/example/build" />
+    </content>
+    <orderEntry type="jdk" jdkName="Android API 28 Platform" jdkType="Android SDK" />
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="library" name="Gradle: io.flutter:flutter_embedding_debug:1.0.0-31792e034099503ad220e36627a64b93d8a01fd2" level="project" />
+    <orderEntry type="library" name="Gradle: androidx.lifecycle:lifecycle-common-java8:2.2.0" level="project" />
+    <orderEntry type="library" name="Gradle: androidx.lifecycle:lifecycle-common:2.2.0" level="project" />
+    <orderEntry type="library" name="Gradle: androidx.arch.core:core-common:2.1.0" level="project" />
+    <orderEntry type="library" name="Gradle: androidx.collection:collection:1.1.0" level="project" />
+    <orderEntry type="library" name="Gradle: androidx.annotation:annotation:1.2.0" level="project" />
+    <orderEntry type="library" name="Gradle: org.jetbrains.kotlin:kotlin-stdlib-jdk7:1.4.21" level="project" />
+    <orderEntry type="library" name="Gradle: org.jetbrains.kotlin:kotlin-stdlib:1.5.10" level="project" />
+    <orderEntry type="library" name="Gradle: org.jetbrains:annotations:13.0" level="project" />
+    <orderEntry type="library" name="Gradle: org.jetbrains.kotlin:kotlin-stdlib-common:1.5.10" level="project" />
+    <orderEntry type="library" name="Gradle: androidx.core:core-ktx:1.6.0@aar" level="project" />
+    <orderEntry type="library" name="Gradle: androidx.fragment:fragment:1.1.0@aar" level="project" />
+    <orderEntry type="library" name="Gradle: androidx.viewpager:viewpager:1.0.0@aar" level="project" />
+    <orderEntry type="library" name="Gradle: androidx.loader:loader:1.0.0@aar" level="project" />
+    <orderEntry type="library" name="Gradle: androidx.activity:activity:1.0.0@aar" level="project" />
+    <orderEntry type="library" name="Gradle: androidx.customview:customview:1.0.0@aar" level="project" />
+    <orderEntry type="library" name="Gradle: androidx.core:core:1.6.0@aar" level="project" />
+    <orderEntry type="library" name="Gradle: androidx.lifecycle:lifecycle-runtime:2.2.0@aar" level="project" />
+    <orderEntry type="library" name="Gradle: androidx.savedstate:savedstate:1.0.0@aar" level="project" />
+    <orderEntry type="library" name="Gradle: androidx.lifecycle:lifecycle-livedata:2.0.0@aar" level="project" />
+    <orderEntry type="library" name="Gradle: androidx.lifecycle:lifecycle-livedata-core:2.0.0@aar" level="project" />
+    <orderEntry type="library" name="Gradle: androidx.arch.core:core-runtime:2.0.0@aar" level="project" />
+    <orderEntry type="library" name="Gradle: androidx.versionedparcelable:versionedparcelable:1.1.1@aar" level="project" />
+    <orderEntry type="library" name="Gradle: androidx.lifecycle:lifecycle-viewmodel:2.1.0@aar" level="project" />
+    <orderEntry type="library" name="Gradle: androidx.annotation:annotation-experimental:1.1.0@aar" level="project" />
+    <orderEntry type="module" module-name="android.path_provider" />
+    <orderEntry type="library" name="Dart SDK" level="project" />
+  </component>
+</module>
