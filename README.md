@@ -7,9 +7,9 @@ and put them in place categorized so you can get them later.
 I hope all YouTubers and content creatures use this app.
 for any questions or if you need me for work you can contact me:
 
-🔎 I’m looking for a good chance to work with mobile development team.
-	•	📫 e-mail : ramy.dmk@gmail.com
-	•	📞 mob : +201093301578
+- 🔎 I’m looking for a good chance to work with mobile development team.
+-	•	📫 e-mail : ramy.dmk@gmail.com
+-	•	📞 mob : +201093301578
 
 
 
