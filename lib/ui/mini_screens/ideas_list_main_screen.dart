@@ -9,6 +9,7 @@ import 'package:google_mobile_ads/google_mobile_ads.dart';
 import 'package:idea_hunter/helpers/ads_manger.dart';
 import 'package:idea_hunter/models/global_finctions.dart';
 import 'package:provider/provider.dart';
+//1
 
 class IdeaListSection extends StatefulWidget {
   IdeaListSection({
